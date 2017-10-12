@@ -2,7 +2,7 @@
 var init = function() {
 
 //--- start example JS ---
-var board1 = ChessBoard('board1');
+var board = ChessBoard('board');
 //--- end example JS ---
 
 }; // end init()
