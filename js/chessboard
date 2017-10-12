@@ -9,6 +9,7 @@
  */
 
 // start anonymous scope
+var board1 = ChessBoard('board1', 'start');
 ;(function() {
 'use strict';
 var board1 = ChessBoard('board1', 'start');
